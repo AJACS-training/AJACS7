@@ -45,31 +45,23 @@
     <dd>[東京工業大学 バイオ研究基盤支援総合センター](http://www.grc.bio.titech.ac.jp/)</dd>
 </dl>
 
-<div class="jumpmenu">↑</div>
 
-### [_](http://MotDB.DBCLS.jp/?AJACS7#mb0cc3f4 "mb0cc3f4") 内容  
+### 内容  
 
-<div class="jumpmenu">↑</div>
 
-#### [_](http://MotDB.DBCLS.jp/?AJACS7#idc023f6 "idc023f6") 午前：講演＋講習 10:30-12:30  
+#### 午前：講演＋講習 10:30-12:30  
 
-* 10:30-11:00 坊農秀雅（ライフサイエンス統合データベースセンター） [「統合データベースプロジェクトとは？」【PDF】](http://dbcls.rois.ac.jp/~bono/docs/090123bono.pdf) [【講演動画】](http://togotv.dbcls.jp/20090203.html)
+* 10:30-11:00 坊農秀雅（ライフサイエンス統合データベースセンター） [「統合データベースプロジェクトとは？」 [【講演動画】](http://togotv.dbcls.jp/20090203.html)
 * 11:00-11:30 黒川顕（東京工業大学大学院生命理工学研究科）「バイオ大航海時代」
-* 11:30-12:30 河野信 （ライフサイエンス統合データベースセンター）[「データベースを使いこなすための最低限のコンピュータ使いこなし術」](http://MotDB.DBCLS.jp/?AJACS7%2Foreno "AJACS7/oreno (3446d)") [【参考動画】](http://togotv.dbcls.jp/20080730.html)
+* 11:30-12:30 河野信 （ライフサイエンス統合データベースセンター）[「データベースを使いこなすための最低限のコンピュータ使いこなし術」](01_kawano.md) [【参考動画】](http://togotv.dbcls.jp/20080730.html)
 
-<div class="jumpmenu">↑</div>
 
-#### [_](http://MotDB.DBCLS.jp/?AJACS7#h651fb02 "h651fb02") 午後：講習 14:00-17:30（統合データベースプロジェクトで提供しているサービスの使い方実習）  
+#### 午後：講習 14:00-17:30（統合データベースプロジェクトで提供しているサービスの使い方実習）  
 
-* 14:00-15:00 川本祥子（ライフサイエンス統合データベースセンター） [「生命科学横断検索の利用法」](http://MotDB.DBCLS.jp/?AJACS7%2Fskmt "AJACS7/skmt (3446d)") [【PDF】](http://dbcls.rois.ac.jp/~kawano/pdf/AJACS7_sk.pdf) [【講演動画】](http://togotv.dbcls.jp/20090219.html)
-* 15:00-15:30 藤枝香（ライフサイエンス統合データベースセンター） [「アナトモグラフィー/BodyParts3Dの利用法」](http://MotDB.DBCLS.jp/?AJACS7%2Ffujieda "AJACS7/fujieda (3447d)") [【講演動画】](http://togotv.dbcls.jp/20090205.html)
+* 14:00-15:00 川本祥子（ライフサイエンス統合データベースセンター） [「生命科学横断検索の利用法」](02_kawamoto.md) [【PDF】](AJACS7_kawamoto.pdf) [【講演動画】](http://togotv.dbcls.jp/20090219.html)
+* 15:00-15:30 藤枝香（ライフサイエンス統合データベースセンター） [「アナトモグラフィー/BodyParts3Dの利用法」](03_fujieda.md) [【講演動画】](http://togotv.dbcls.jp/20090205.html)
 * 15:30-16:00 休憩
-* 16:00-16:30 仲里猛留（ライフサイエンス統合データベースセンター） [「自然言語処理技術の活用実例」](http://MotDB.DBCLS.jp/?AJACS7%2Fthecla "AJACS7/thecla (3446d)")　[【講演動画】](http://togotv.dbcls.jp/20090224.html)
-* 16:30-17:00 中村保一（国立遺伝学研究所・かずさDNA研究所） [「Kazusa Annotation Suiteの活用」](http://MotDB.DBCLS.jp/?AJACS7%2Fyn "AJACS7/yn (3446d)")　[【参考動画】](http://togotv.dbcls.jp/20081117.html)
-* 17:00-17:30 小野浩雅 （ライフサイエンス統合データベースセンター） [「遺伝子発現データの活用実例」 ](http://MotDB.DBCLS.jp/?AJACS7%2Fhono "AJACS7/hono (3343d)")　[【講演動画】](http://togotv.dbcls.jp/20090217.html)
+* 16:00-16:30 仲里猛留（ライフサイエンス統合データベースセンター） [「自然言語処理技術の活用実例」](04_nakazato.md)　[【講演動画】](http://togotv.dbcls.jp/20090224.html)
+* 16:30-17:00 中村保一（国立遺伝学研究所・かずさDNA研究所） [「Kazusa Annotation Suiteの活用」](05_nakamura.md)　[【参考動画】](http://togotv.dbcls.jp/20081117.html)
+* 17:00-17:30 小野浩雅 （ライフサイエンス統合データベースセンター） [「遺伝子発現データの活用実例」 ](06_hono.md)　[【講演動画】](http://togotv.dbcls.jp/20090217.html)
 
----
-
-[![lifesciencedb.jp](http://dbcls.rois.ac.jp/img/lsdb.gif "lifesciencedb.jp")](http://lifesciencedb.jp/)
-
-}}
